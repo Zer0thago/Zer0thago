@@ -48,7 +48,7 @@
 Started with **electronics at age 7** (building circuits, soldering radios). Transitioned to software, now specializing in **security research** and **low-level systems**. Self-taught in reverse engineering, binary analysis, and infrastructure.
 
 ### 📫 Let's Connect
-- **Discord**: `zer0thago` (preferred for tech discussions)
+- **Discord**: `zer0supernova` (preferred for tech discussions)
 - **GitHub**: You're already here!
 
 ---
