@@ -3,7 +3,7 @@
 <h4 align="center">17 | Germany 🇩🇪 | Building since age 7</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zer0thago&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
+  <img src="https://komarev.com/ghpvc/?username=Zer0SuperNova&label=Profile%20views&color=0e75b6&style=flat" alt="zer0thago" />
 </p>
 
 ### 🎯 Currently Working On
@@ -71,21 +71,21 @@
 
 
 ### 🏆 Highlighted Projects
-- **[SeptionLang](https://github.com/Zer0thago/SeptionLang)** - Stack-based VM & interpreter from scratch
-- **[JigglyGif](https://github.com/Zer0thago/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
+- **[SeptionLang](https://github.com/Zer0SuperNova/SeptionLang)** - Stack-based VM & interpreter from scratch
+- **[JigglyGif](https://github.com/Zer0SuperNova/JigglyGif)** - Pure Node.js GIF frame extractor (binary parsing)
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0thago&show_icons=true&theme=radical&hide_border=true" alt="Zer0's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zer0SuperNova&show_icons=true&theme=radical&hide_border=true" alt="Zer0's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0thago&theme=radical&hide_border=true" alt="Zer0's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0SuperNova&theme=radical&hide_border=true" alt="Zer0's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zer0thago&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zer0SuperNova&theme=redical&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### 🎓 Background
