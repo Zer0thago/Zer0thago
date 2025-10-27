@@ -40,6 +40,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer0thago&theme=radical&hide_border=true" alt="Zer0's Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zer0thago&theme=redical&hide_border=true" alt="Activity Graph" />
+</p>
+
 ### 🎓 Background
 Started with **electronics at age 7** (building circuits, soldering radios). Transitioned to software, now specializing in **security research** and **low-level systems**. Self-taught in reverse engineering, binary analysis, and infrastructure.
 
